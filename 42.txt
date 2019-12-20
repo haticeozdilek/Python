@@ -1,0 +1,8 @@
+A1.Başla
+A2.counter=1
+A3.sayi=RANDOM(1,100)
+A4.Sayiyi oku
+A5.Eğer sayi=42 ise A7'ye git
+A6.i=i+1 al ve A3'e git
+A7.i'yi yaz
+A8.Dur
