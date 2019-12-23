@@ -1,0 +1,9 @@
+Girilen sayının kaç basamaklı olduğunu söyleyen algoritma
+A1.Başla
+A2.sayac=1
+A3.sayiyi oku
+A4.Eğer sayi<=9 ise A7'ye git
+A5.sayi=TAM(sayi/10)
+A6.sayac=sayac+1 al ve A4'e git
+A7.sayac'ı yaz
+A8.Dur
