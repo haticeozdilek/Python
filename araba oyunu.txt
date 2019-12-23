@@ -1,0 +1,16 @@
+Araba Oyunu:1-10'a kadar olan rakamların birinde(10 da dahil) araba vardır.Oyuncuya bir sayı seçtir.Sonra başka bir sayı ile kendi seçtiği sayı arasında seçim yapmasını iste.
+a=kullanıcının söylediği sayı
+b=arabanın olduğu sayı
+son=kullanıcının son tercihi
+
+A1.Başla
+A2.b=RANDOM(1,10)
+A3.a'yı oku
+A4.Eğer b=a değil ise A7'ye git
+A5.a=RANDOM(1,10)
+A6.EĞER b=a ise A5'e git
+A7.a ve b'yi yaz
+A8.son'u yaz
+A9.Eğer son=b ise "Kazandınız" yaz ve A11'e git.
+A10."Kazanamadınız" 
+A11.Dur
