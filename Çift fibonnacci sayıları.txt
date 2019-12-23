@@ -1,0 +1,11 @@
+Sadece çift fibonnacci sayılarını toplayarak 1000'i geçmeye çalışıyoruz.En son kaçıncı fibonnacci sayısı bu diziye dahil olur?
+-Kullanıcıdan sayı okumak yok!
+
+A1.Başla
+A2.fib(1)=1, fib(2)=1, i=3, top=0
+A3.Eğer top>1000 ise A7'ye git
+A4.A(i)=A(i-1)+A(i-2)
+A5.Eğer TAM(A(i)/2)*2 = A(i) ise top=top+A(i)
+A6.i=i+1 al ve A3'e git.
+A7.i'yi yaz
+A8.Dur
